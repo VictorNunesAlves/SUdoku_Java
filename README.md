@@ -119,4 +119,4 @@ Tabuleiro exibido no console:
 
 Victor Hugo Nunes Alves
 
-**Projeto desenvolvido como prática de **Java e Programação Orientada a Objetos**.  
+Projeto desenvolvido como prática de **Java e Programação Orientada a Objetos**.  
