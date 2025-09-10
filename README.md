@@ -116,4 +116,7 @@ Tabuleiro exibido no console:
 ---
 
 ## 👨‍💻 Autor
-Projeto desenvolvido como prática de **Java e Programação Orientada a Objetos**.  
+
+Victor Hugo Nunes Alves
+
+**Projeto desenvolvido como prática de **Java e Programação Orientada a Objetos**.  
